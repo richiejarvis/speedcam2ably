@@ -1,0 +1,10 @@
+# ---------------- User Configuration Settings for speedcam2es.py ---------------------------------
+#          speedcam2es.py Variable Configuration Settings
+version = "0.0.2"
+db_file = '/home/pi/speed-camera/data/speed_cam.db'
+debug = True
+timezone=".000Z"
+ably_api_key = 'INSERT_API_KEY'
+ably_channel = 'INSERT_ABLY_CHANNEL'
+source_camera = 'INSERT_SOURCE_CAMERA'
+
